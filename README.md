@@ -73,7 +73,7 @@ Avant de lancer l'application, assurez-vous d'avoir installé les outils suivant
 
 ## Auteur
 
-Créé par **JellyPh1sh**.
+Créé par **JellyPh1sh** & **Godlonx**.
 
 ## Licence
 
