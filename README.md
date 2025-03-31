@@ -30,7 +30,7 @@ Avant de lancer l'application, assurez-vous d'avoir installé les outils suivant
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/todo_list.git
+   git clone https://github.com/jellyph1sh/todolist-mobile.git
    cd todo_list
    ```
 
